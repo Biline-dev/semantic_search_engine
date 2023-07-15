@@ -1,2 +1,3 @@
-data
+data/wiki_movie_plots_deduped.csv
 big_mom
+__pycache__
