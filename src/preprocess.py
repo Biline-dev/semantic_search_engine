@@ -9,7 +9,7 @@ from transformers import BertTokenizer, BertModel
 
 """
 
-This code have been used to encode the text of the plots of the movies using the BERT model.
+This code has been used to encode the text of the plots of the movies using the BERT model.
 The created embeddings are added to the dataframe and saved as a numpy array.
 The aim of this approach is to speed up the search of similar movies by preparing the data beforehand.
 
