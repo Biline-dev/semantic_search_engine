@@ -1,0 +1,23 @@
+
+{
+    "payload1" : {
+        "query": "it's about a young lady who had to make a hard choice", "k" :3 , 
+           "genre": "comedy", "release_year": 2013
+    },
+    "payload2" : {
+        "query": "it's about a young lady who had to make a hard choice", "k" :3 , 
+            "release_year": 2013
+    },
+    "payload3" : {
+        "query": "it's about a young lady who had to make a hard choice", "k" :3 , 
+           "genre": "comedy"
+    },
+    "payload4" : {
+        "query": "it's about a young lady who had to make a hard choice", "k" :3
+    },
+    "payload5" : {
+        "query": "it's about a young lady who had to make a hard choice", "k" :10
+    }
+
+}
+
